@@ -34,7 +34,7 @@ I thrive on bridging the gap between an idea and a tangible product. My focus ex
 - 🌱 I’m always learning and refining my skills across the full technology stack.
 - 🤝 I’m looking to collaborate on open-source projects that solve real-world problems.
 - 💬 Ask me about my development process and how I approach product strategy.
-
+ 
 ---
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
