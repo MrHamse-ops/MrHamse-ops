@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://gitskins.com/api/avatar?username=MrHamse-ops&theme=github-dark&family=character&size=240" width="140" alt="MrHamse-ops's GitSkins avatar" />
+  <img src="https://gitskins.com/api/avatar?username=MrHamse-ops&theme=github-dark&family=character&size=240" width="140" alt="MrHamse-ops'" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 </div>
 
-## 🚀 About Me
+## 🚀 About Me 
 
 I'm a Fullstack Developer at **Buruud Technology** in Hargeisa, driven by a passion for building complete, user-centric applications from concept to deployment. My philosophy, "Mar kasta alle raaligali" (Always please God), translates into a deep commitment to creating work that is both meaningful and well-crafted.
 
