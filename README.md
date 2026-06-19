@@ -1,101 +1,83 @@
+<h1 align="center">Hi there, I'm Hamse | حمزة 🐐 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=820&lines=Full-Stack+Software+Engineer+building+scalable+digital+solutions+for+modern+businesses." alt="Typing SVG" />
+  <img src="https://[readme-typing-svg.herokuapp.com](https://github.com/omarapthikaadir-collab/omarapthikaadir-collab/blob/main/giphy.webp)?font=Fira+Code&pause=1000&color=2ecc71&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-Stack+Web+Developer;Mobile+App+Developer;🛡️+Cybersecurity+Enthusiast" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://gitskins.com/api/avatar?username=MrHamse-ops&theme=github-dark&family=character&size=240" width="140" alt="MrHamse-ops'" />
-</p>
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrHamse-ops&label=Profile%20views&color=22c55e&style=flat" alt="MrHamse-ops profile views" />
-</p>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <p align="left">
+        💡 <b>Full-Stack Software Engineer building scalable digital solutions for modern businesses.</b>
+      </p>
+      <ul>
+        <li>🛡️ <b>Cybersecurity Enthusiast</b></li>
+        <li>💻 <b>Full-Stack Developer</b></li>
+        <li>📱 <b>Mobile App Developer</b></li>
+      </ul>
+    </td>
+    <td width="40%" valign="center" align="center">
+      <img src="giphy.gif" alt="Coding GIF" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24&section=footer" width="100%" alt="" />
-</p>
+## 🛠️ Tech Stack
+<!-- Halkan ku dar icons-ka xirfadahaaga sida Django, React, iyo Flutter -->
 
-<div align="center">
-  
-# Hi there, I'm Hamse | حمزة 🐐
-### Full-Stack Software Engineer building scalable digital solutions for modern businesses. 
-  
+<!-- Boos dheeri ah oo lagu kala fogeynayo qoraalka iyo sawirka -->
+<br>
 
-![MrHamse-ops's GitHub Profile](https://gitskins.com/api/premium-card?username=MrHamse-ops&theme=github-dark)
 
-</div>
-
-## 🚀 About Me 
-
-I'm a Fullstack Developer at **Buruud Technology** in Hargeisa, driven by a passion for building complete, user-centric applications from concept to deployment. My philosophy, "Mar kasta alle raaligali" (Always please God), translates into a deep commitment to creating work that is both meaningful and well-crafted.
-
-I thrive on bridging the gap between an idea and a tangible product. My focus extends beyond just writing code—I'm dedicated to understanding user needs, architecting scalable solutions, and ensuring a seamless end-to-end experience. I'm currently building my public portfolio and am excited to collaborate on projects that challenge and inspire.
-
-- 🔭 At **Buruud Technology**, I recently engineered a real-time messaging feature using WebSockets, enhancing user engagement by 25%.
-- 🌱 I’m always learning and refining my skills across the full technology stack.
-- 🤝 I’m looking to collaborate on open-source projects that solve real-world problems.
-- 💬 Ask me about my development process and how I approach product strategy.
- 
----
-
-<h3 align="left">🛠️ Languages and Tools:</h3>
-
-<p align="left">
-  <strong>Frontend:</strong><br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-</p>
-
-<p align="left">
-  <strong>Backend & Database:</strong><br>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-</p>
-
-<p align="left">
-  <strong>DevOps & Tools:</strong><br>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-</p>
-
-My core expertise is in the MERN stack (MongoDB, Express, React, Node.js), complemented by experience in deploying containerized applications with Docker to AWS.
+| 🎨 Frontend | ⚙️ Backend |
+| :--- | :--- |
+| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
+| ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) |
 
 ---
 
-<h3 align="left">📊 GitHub Stats & Activity</h3>
+| 📱 Mobile | 🗄️ Databases |
+| :--- | :--- |
+| ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
+ ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) |
+---
 
+| 🛡️ Cybersecurity | 🛠️ Tools |
+| :--- | :--- |
+| ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557CF1?style=for-the-badge&logo=kali-linux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white) | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
+
+
+---
+
+## 📊 My GitHub Statistics
 <p align="center">
-  <img align="center" src="https://gitskins.com/api/stats?username=MrHamse-ops&theme=github-dark" alt="MrHamse-ops's GitHub Stats" />
-  <img align="center" src="https://gitskins.com/api/languages?username=MrHamse-ops&theme=github-dark" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://gitskins.com/api/streak?username=MrHamse-ops&theme=github-dark" alt="GitHub Streak" />
-</p>
-
-
-<h3 align="left">📫 Connect with Me:</h3>
-<p align="left">
-  I'm always open to discussing new projects, creative ideas, or opportunities to be part of an ambitious team. Let's connect!
-</p>
-<p align="left">
-<a href="https://linkedin.com/in/hamse-abdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamse-abdi" height="30" width="40" /></a>
-<a href="mailto:hamse.dev@email.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="hamse.dev@email.com" height="30" width="40" /></a>
-<a href="https://hamse-dev.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="hamse-dev.com" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=MrHamse-ops&show_icons=true&theme=dark" alt="Hamse's Stats" />
 </p>
 
 ---
-<h3 align="center">🌐 Connect With Me</h3>
 
+## 🔥 Streak Stats
 <p align="center">
-<a href="https://www.tiktok.com/@madaraawitech">
-<img src="https://img.shields.io/badge/TikTok-@madaraawitech-black?style=for-the-badge&logo=tiktok" />
-</a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrHamse-ops&theme=tokyonight" alt="Hamse's Streak" />
 </p>
+
+---
+
+## 🤝 Connect with Me
+<p align="center">
+  <a href="https://www.instagram.com/hamsehmz" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto://gmail.com/Hamseha46@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" width="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/MrHamse-ops" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="45" />
+  </a>
+</p>
+
+---
