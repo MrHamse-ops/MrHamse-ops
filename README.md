@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Hamse | حمزة 🐐 👋</h1>
 <p align="center">
-  <img src="https://[readme-typing-svg.herokuapp.com](https://github.com/omarapthikaadir-collab/omarapthikaadir-collab/blob/main/giphy.webp)?font=Fira+Code&pause=1000&color=2ecc71&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-Stack+Web+Developer;Mobile+App+Developer;🛡️+Cybersecurity+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ecc71&center=true&vCenter=true&width=435&lines=Hamse+Abdi;Software+Engineering;Full-Stack+Web+Developer;Mobile+App+Developer;🛡️+Cybersecurity+Enthusiast" alt="Typing SVG" />
 </p>
 
-## 🚀 About Me
+🚀 About Me
 
 <table>
   <tr>
@@ -18,15 +18,12 @@
       </ul>
     </td>
     <td width="40%" valign="center" align="center">
-      <img src="giphy.gif" alt="Coding GIF" width="100%" />
-    </td>
+<img width="1237" height="640" alt="somaliland-map-1237x640" src="https://github.com/user-attachments/assets/02e7fd0f-1e50-459d-a7ba-8b9112a89329" />
+
   </tr>
 </table>
 
 ## 🛠️ Tech Stack
-<!-- Halkan ku dar icons-ka xirfadahaaga sida Django, React, iyo Flutter -->
-
-<!-- Boos dheeri ah oo lagu kala fogeynayo qoraalka iyo sawirka -->
 <br>
 
 
