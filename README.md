@@ -60,7 +60,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrHamse-ops&theme=tokyonight" alt="Hamse's Streak" />
 </p>
 
----
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrHamse-ops&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" width="98%" alt="GitHub Activity Graph"/>
+
+</div>
 
 ## 🤝 Connect with Me
 <p align="center">
