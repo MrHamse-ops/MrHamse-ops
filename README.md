@@ -47,14 +47,17 @@
 ---
 
 ## 📊 My GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrHamse-ops&show_icons=true&theme=dark" alt="Hamse's Stats" />
-</p>
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MrHamse-ops&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Hamse's GitHub Stats"
+  />
+</p>
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrHamse-ops&theme=tokyonight" alt="Hamse's Streak" />
+  <img src="https://streak-stats.demolab.com?user=MrHamse-ops&theme=tokyonight&hide_border=true" alt="Hamse's Streak" />
 </p>
 
 <div align="center">
