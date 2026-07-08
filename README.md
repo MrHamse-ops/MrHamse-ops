@@ -51,7 +51,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MrHamse-ops&show_icons=true&theme=dark" alt="Hamse's Stats" />
 </p>
 
----
 
 ## 🔥 Streak Stats
 <p align="center">
