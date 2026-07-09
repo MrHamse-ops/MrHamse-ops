@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ecc71&center=true&vCenter=true&width=435&lines=Hamse+Abdi;Software+Engineering;Full-Stack+Web+Developer;Mobile+App+Developer;🛡️+Cybersecurity" alt="Typing SVG" />
 </p>
-
 🚀 About Me 
 
 <table>
