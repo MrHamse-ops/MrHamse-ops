@@ -64,7 +64,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrHamse-ops&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" width="98%" alt="GitHub Activity Graph"/>
 
 </div>
-## 🤝 Connect with Me
+🤝 Connect with Me
 <p align="center">
   <a href="https://www.instagram.com/hamsehmz" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="45" />
