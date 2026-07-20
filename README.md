@@ -45,7 +45,7 @@
 
 ---
 
-## 📊 My GitHub Statistics
+📊 My GitHub Statistics
 
 <p align="center">
   <img
@@ -54,7 +54,7 @@
   />
 </p>
 
-## 🔥 Streak Stats
+🔥 Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MrHamse-ops&theme=tokyonight&hide_border=true" alt="Hamse's Streak" />
 </p>
