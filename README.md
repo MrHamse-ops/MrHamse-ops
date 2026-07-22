@@ -22,7 +22,7 @@
   </tr>
 </table>
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 <br>
 
 
