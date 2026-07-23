@@ -11,7 +11,6 @@
         💡 <b>Full-Stack Software Engineer building scalable digital solutions for modern businesses.</b>
       </p>
       <ul>
-        <li>🛡️ <b>Cybersecurity Enthusiast</b></li>
         <li>💻 <b>Full-Stack Developer</b></li>
         <li>📱 <b>Mobile App Developer</b></li>
       </ul>
